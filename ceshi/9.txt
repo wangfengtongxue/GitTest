@@ -1,0 +1,6 @@
+ A mathematical model is developed and validated for a seeded 
+suspension polymerization process that manufactures polystyrene 
+beads starting from pretreated polyolefin seeds. For the manufacture
+ of this specialty product, we focus on prediction of the dynamics of
+ particle growth, polymerization
+ rate and particle average molecular weight. Particular emphasis 

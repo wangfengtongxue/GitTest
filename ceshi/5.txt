@@ -1,0 +1,4 @@
+Statoil produces three main polyolefins; low density polyethylene, high 
+density polyethylene and polypropylene. For each main product there are
+ several grades. Polypropylene homo-polymer is produced 
+in a continuous stirred tank reactor. A dynamic model, able to 

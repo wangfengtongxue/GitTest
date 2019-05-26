@@ -1,0 +1,3 @@
+is determined based on the proposed model and an optimum semi-batch 
+feeding policy is determined. This improved policy is also implemented and 
+validated by pilot plant experiments. 2010 Elsevier Ltd. All rights reserved

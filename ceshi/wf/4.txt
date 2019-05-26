@@ -1,0 +1,5 @@
+A model is proposed to describe the solidification and crystallization 
+phenomena in rotational molding. To capture the morphology 
+development with crystallization behavior, a two-dimensional theoretical 
+simulation was carried out, consisting of a phase-field model emphasizing the 
+metastability of polymer crystallization and a heat-transfer model describing 

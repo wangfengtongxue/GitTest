@@ -1,0 +1,5 @@
+temperatures covering the melt-temperature range of the polymers. The characteristic ratio was used to
+ assess the quality of the conformers and the RMMC method. Values of 9.68 for PE and 9.27 for iPP were 
+obtained. The single-chain structure factors calculated by the RMMC method were used to calculate the 
+total structure factor for each melt. 
+These were validated against published X-ray diffraction results.

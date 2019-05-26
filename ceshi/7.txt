@@ -1,0 +1,6 @@
+ Polymer processing is an important step towards the shaping of an application. 
+The challenge for the resin manufacturer is to define the optimal molecular structure 
+meeting both processing criteria and the final application requirements. For polyolefin p
+lastics, the resin design has been defined mainly by the limits of the available catalyst 
+technology and the flexibility of the 
+manufacturing units in place. The advent of the metallocene catalyst 

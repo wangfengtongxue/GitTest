@@ -1,0 +1,5 @@
+data. Values were obtained for PE and iPP individually and for common 
+universal parameters that could potentially be used for all polyolefins. 
+The rotational isomeric state-metropolis Monte Carlo (RMMC) technique
+ was used to generate sets of conformers at specified temperatures covering the 
+melt-temperature range of the polymers. The characteristic ratio was 

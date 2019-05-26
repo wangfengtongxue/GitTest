@@ -1,0 +1,5 @@
+transitions. The manipulative variables are parameterized by piece-wise 
+constant interpolation and a quasi-Newton optimization algorithm is used
+ for finding the optimal parameters. The response is computed over a time
+ horizon and the optimization is carried out for each sampling interval. 
+The model is updated on-line to comply with measured quantities. 6

@@ -1,0 +1,5 @@
+is placed on acquisition of reliable parameters which must be estimated from
+ available analytical measurements of the product. A hybrid approach is proposed
+ for parameter subset selection and estimation. Excellent agreement is obtained 
+with experimental results for different product grades. 
+The monomer feeding rate, which is a key controlling factor of bead properties, 

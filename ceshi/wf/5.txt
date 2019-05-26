@@ -1,0 +1,18 @@
+the molding cycle. The model parameters were 
+experimentally evaluated with differential scanning
+calorimetry and isothermal crystallization tests.
+ Molding trials were also conducted with benchscale
+ rotational molding equipment, and the cross
+ sections of the molded products were examined 
+under polarized light optical microscopy. 
+The model predictions capture the formation 
+of transcrystalline structures near the mold 
+surface, which is more apparent under moderate
+ cooling conditions. Our results show that the 
+model predictions are in general agreement with
+ the experimental results obtained in our laboratory
+ as well as those presented in the literature. Because
+ morphological features are important contributing 
+factors to product performance, the model will be useful for
+ the formulation of new materials and process 
+optimization. 2006 Wiley Periodicals, Inc. 

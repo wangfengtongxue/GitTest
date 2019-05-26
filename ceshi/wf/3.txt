@@ -1,0 +1,4 @@
+of the various film properties to the control variables evaluated. Each
+ film property responds differently to the control variables, so an optimum
+ combination of film properties can be selected by appropriately selecting the optimum
+ sealant layer thickness, slip additive level, and antiblock additive level. 
