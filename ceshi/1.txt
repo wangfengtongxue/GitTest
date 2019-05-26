@@ -6,4 +6,5 @@ mposition temperatures for PE/iPP blends. The computational expense of the PRIS
 M calculation was reduced with a single-site united atom model in which the poly
 olefin CH, CH2, and CH3 groups were approximated as chemically equivalent sites
  with spherical
-y symmetric energetic interactions. The site-site 
+ysymmetric energetic interactions. The site-site
+wangfeng shiyigedashadiao
