@@ -1,3 +1,4 @@
 interactions were defined by a potential function comprising a hard core with an attractive Lennard-Jones term. 
 These energetic parameters were optimized with a central composite design strategy that enabled a simultaneous fit of 
-experimental melt density and structure factor 
+experimental melt density and structure factor
+ed3r ff
